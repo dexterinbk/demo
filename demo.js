@@ -1,1 +1,1 @@
-window.location = '/admin';  // or full URL if needed
+window.location = '/flag';  // or full URL if needed
